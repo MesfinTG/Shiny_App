@@ -7,6 +7,8 @@
 
 - The app uses the USPersonalExpenditures data by expense category in billions of dollars during the 1940 to 1960 (Tukey, 1977). 
 **** Data from Tukey (1977), Exploratory Data Analysis, Addison-Wesley.
+The app is found here:
+https://mesfintesfayeg.shinyapps.io/Course_Final_Project/
 
 ## What to do?
 - The default barchart displays data for the food and tobacco category.
